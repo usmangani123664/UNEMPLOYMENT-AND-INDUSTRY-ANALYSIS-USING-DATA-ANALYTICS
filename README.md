@@ -1,4 +1,4 @@
-# 📈 Unemployment Analysis & Industry Insight in India (2019–2020)
+# 📈 Unemployment Analysis & Industry Insights in India (2019–2020)
 
 This Data Analytics project provides an end-to-end analysis of unemployment trends in India during 2019–2020, leveraging multiple datasets and visualization techniques. It also maps industrial efficiency and regional employment opportunities using real-world data.
 
