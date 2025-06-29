@@ -115,5 +115,5 @@ The project uses **three real-world datasets** sourced from Kaggle:
   - 📄 `README.md`
   - 📄 `unemployment_analysis.ipynb`
   - 📁 `data/`
-    - (Datasets not uploaded – links are provided inside the notebook)
+    - (links for datasets are provided above)
 
