@@ -110,8 +110,10 @@ The project uses **three real-world datasets** sourced from Kaggle:
 ---
 
 ## 📁 Project Structure
-📦 unemployment-analysis-india
-├── 📄 README.md
-├── 📄 unemployment_analysis.ipynb
-└── 📁 data/
-└── (Datasets not uploaded – see links in notebook)
+
+- 📦 `unemployment-analysis-india/`
+  - 📄 `README.md`
+  - 📄 `unemployment_analysis.ipynb`
+  - 📁 `data/`
+    - (Datasets not uploaded – links are provided inside the notebook)
+
